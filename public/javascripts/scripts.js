@@ -23,7 +23,7 @@ if (document.querySelector('#new-pet')) {
                 setTimeout(() => {
                     alert.style.display = 'none';
                     alert.classList.remove('alert-warning');
-                }, 3000)
+                }, 4000)
             });
     });
 }
